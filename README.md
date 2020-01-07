@@ -1,4 +1,4 @@
-Simple Dot Net Core Queue Manager
+Simple .Net Core Queue(producer-consumer) Manager
 =========================
 Simple.NETCore.QueueManager is a basic producer-consumer model that uses dataflow. for .Net Core
 

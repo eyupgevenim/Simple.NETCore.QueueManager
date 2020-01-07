@@ -19,7 +19,7 @@
             this.ConsumerMaxDegreeOfParallelism = 1;
         }
         /// <summary>
-        /// 
+        /// Queue Configurations constructor
         /// </summary>
         /// <param name="producerMaxDegreeOfParallelism">Producer MaxDegreeOfParallelism</param>
         /// <param name="consumerMaxDegreeOfParallelism">Consumer MaxDegreeOfParallelism</param>
