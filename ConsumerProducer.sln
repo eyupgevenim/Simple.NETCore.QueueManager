@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8287AA66-3712-4F54-BC50-D8BFC71D19AE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple.NETCore.QueueManager", "src\ConsumerProducerManager\Simple.NETCore.QueueManager.csproj", "{499A3CE5-0E95-4E6C-918D-9F5C997C5B0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple.NETCore.QueueManager", "src\NETCore.QueueManager\Simple.NETCore.QueueManager.csproj", "{499A3CE5-0E95-4E6C-918D-9F5C997C5B0B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{D10E6F9D-9AFD-45C6-85AD-9045C91DD0AA}"
 EndProject

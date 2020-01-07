@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\ConsumerProducerManager\Simple.NETCore.QueueManager.csproj" />
+    <ProjectReference Include="..\..\NETCore.QueueManager\Simple.NETCore.QueueManager.csproj" />
   </ItemGroup>
 
 </Project>
