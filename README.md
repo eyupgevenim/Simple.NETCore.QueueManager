@@ -40,7 +40,6 @@ output:
 
 <img src="./sample-output.JPG" max-height="400" alt="producer consumer"/>
 <br />
-<br />
 
 Resource
 ---------
