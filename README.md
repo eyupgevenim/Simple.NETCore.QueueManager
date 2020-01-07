@@ -44,3 +44,4 @@ output:
 Resource
 ---------
 [How to: Implement a Producer-Consumer Dataflow Pattern](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/how-to-implement-a-producer-consumer-dataflow-pattern)
+[BlockingCollection<T>](https://docs.microsoft.com/tr-tr/dotnet/api/system.collections.concurrent.blockingcollection-1)
