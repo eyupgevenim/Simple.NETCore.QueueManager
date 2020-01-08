@@ -36,7 +36,7 @@ namespace Simple.NETCore.QueueManager
         /// Queue constructor
         /// </summary>
         /// <param name="queueConfigurations">Queue configurations</param>
-        public QueueService(QueueConfigurations queueConfigurations) : this()
+        public QueueService(QueueConfigurations queueConfigurations)
         {
             QueueConfigurations = queueConfigurations;
             Exceptions = new List<QueueException>();
